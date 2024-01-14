@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+/src/app/ReactionButton.js
+/src/app/Lottery.js
 
 # testing
 /coverage
